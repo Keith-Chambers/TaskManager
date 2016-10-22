@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StringInput.qml</file>
+        <file>IntInput.qml</file>
+        <file>Button_KC.qml</file>
+        <file>TaskPaneList_KC.qml</file>
+        <file>CreateTask_KC.qml</file>
+        <file>RC_TaskCreation_KC.qml</file>
+        <file>RR_TaskCreation_KC.qml</file>
+        <file>SC_TaskCreation_KC.qml</file>
+        <file>SelectYear_KC.qml</file>
+        <file>SelectTime_KC.qml</file>
+        <file>CreateCatDialog.qml</file>
+        <file>BrowseTasksDialog.qml</file>
+        <file>SaveDataDialog.qml</file>
+        <file>BrowseTasks.qml</file>
+        <file>GoalViewPane.qml</file>
+        <file>GoalViewCreation.qml</file>
+        <file>AddGoalViewToPaneDialog.qml</file>
+        <file>PanelCreationDialog.qml</file>
+    </qresource>
+</RCC>
